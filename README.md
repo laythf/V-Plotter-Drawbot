@@ -14,7 +14,7 @@ I attached the Nema Steppers to 3D-printed mounts, and screwed the mounts to a w
 
 * **Microcontroller:** Arduino UNO R4 WiFi + V3.0 CNC Shield Extension Board
 * **Motor Drivers:** BIGTREETECH TMC2209
-* **Actuators:** * 2x Nema 17 Bipolar Steppers (8mm body)
+* **Actuators:** 2x Nema 17 Bipolar Steppers (48mm body)
     * 1x ES08MA II Mini Metal Gear Analog Servo (Pen lift mechanism)
 * **Drivetrain:** KeeYees 5M GT2 Timing Belt (6mm width, 2mm pitch) + 20-Tooth Pulleys
 * **Power:** 12V 3A Power Supply Adapter
