@@ -133,5 +133,3 @@ void moveTo(float x, float y) {
     stepperR.run();
   }
 }
-
-// ... [Keep the rest of your functions (setupDriver, runUntilStall, homeSensorless, drawSquare, penUp, penDown) exactly as they are. Just copy them in below this line!] ...
